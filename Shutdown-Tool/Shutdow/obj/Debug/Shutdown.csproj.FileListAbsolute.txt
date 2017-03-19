@@ -1,0 +1,12 @@
+C:\Users\Thomas\OneDrive\Code\C#\Code\Self\Desktop\Shutdown\Shutdow\obj\Debug\Shutdown.frmShutdown.resources
+C:\Users\Thomas\OneDrive\Code\C#\Code\Self\Desktop\Shutdown\Shutdow\obj\Debug\Shutdown.csproj.GenerateResource.Cache
+C:\Users\Thomas\OneDrive\Code\C#\Code\Self\Desktop\Shutdown\Shutdow\obj\Debug\Shutdow.exe
+C:\Users\Thomas\OneDrive\Code\C#\Code\Self\Desktop\Shutdown\Shutdow\obj\Debug\Shutdow.pdb
+C:\Users\Thomas\OneDrive\Code\C#\Code\Self\Desktop\Shutdown\Shutdow\bin\Debug\Shutdow.exe.config
+C:\Users\Thomas\OneDrive\Code\C#\Code\Self\Desktop\Shutdown\Shutdow\bin\Debug\Shutdow.exe.manifest
+C:\Users\Thomas\OneDrive\Code\C#\Code\Self\Desktop\Shutdown\Shutdow\bin\Debug\Shutdow.application
+C:\Users\Thomas\OneDrive\Code\C#\Code\Self\Desktop\Shutdown\Shutdow\bin\Debug\Shutdow.exe
+C:\Users\Thomas\OneDrive\Code\C#\Code\Self\Desktop\Shutdown\Shutdow\bin\Debug\Shutdow.pdb
+C:\Users\Thomas\OneDrive\Code\C#\Code\Self\Desktop\Shutdown\Shutdow\obj\Debug\Shutdown.Properties.Resources.resources
+C:\Users\Thomas\OneDrive\Code\C#\Code\Self\Desktop\Shutdown\Shutdow\obj\Debug\Shutdow.exe.manifest
+C:\Users\Thomas\OneDrive\Code\C#\Code\Self\Desktop\Shutdown\Shutdow\obj\Debug\Shutdow.application
