@@ -4,7 +4,7 @@ Ein kleines Spiel mit unterschiedlichen Schwierigkeitsgraden, bei dem eine zufä
 
 <br>
 
-### Projektinformationen
+### Projektinformationen:
 | Projektname   | Zahlenraten         |
 | :------------ | :------------------ |
 | IDE           | Visual Studio       | 
