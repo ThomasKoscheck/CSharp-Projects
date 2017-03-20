@@ -50,3 +50,16 @@ C:\Users\Thomas\OneDrive\Code\Visual Studio\Code\Self\Desktop\Zahlenraten\ÜZahl
 C:\Users\Thomas\OneDrive\Code\Visual Studio\Code\Self\Desktop\Zahlenraten\ÜZahlenraten\obj\Debug\ÜZahlenraten.csproj.GenerateResource.Cache
 C:\Users\Thomas\OneDrive\Code\Visual Studio\Code\Self\Desktop\Zahlenraten\ÜZahlenraten\obj\Debug\Zahlenraten.exe.manifest
 C:\Users\Thomas\OneDrive\Code\Visual Studio\Code\Self\Desktop\Zahlenraten\ÜZahlenraten\obj\Debug\Zahlenraten.application
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Zahlenraten\ÜZahlenraten\obj\Debug\ÜZahlenraten.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Zahlenraten\ÜZahlenraten\obj\Debug\ÜZahlenraten.frmÜZahlenraten.resources
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Zahlenraten\ÜZahlenraten\obj\Debug\Zahlenraten.Properties.Resources.resources
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Zahlenraten\ÜZahlenraten\obj\Debug\ÜZahlenraten.csproj.GenerateResource.Cache
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Zahlenraten\ÜZahlenraten\obj\Debug\Zahlenraten.exe
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Zahlenraten\ÜZahlenraten\obj\Debug\Zahlenraten.pdb
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Zahlenraten\ÜZahlenraten\bin\Debug\Zahlenraten.exe.config
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Zahlenraten\ÜZahlenraten\bin\Debug\Zahlenraten.exe.manifest
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Zahlenraten\ÜZahlenraten\bin\Debug\Zahlenraten.application
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Zahlenraten\ÜZahlenraten\bin\Debug\Zahlenraten.exe
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Zahlenraten\ÜZahlenraten\bin\Debug\Zahlenraten.pdb
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Zahlenraten\ÜZahlenraten\obj\Debug\Zahlenraten.exe.manifest
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Zahlenraten\ÜZahlenraten\obj\Debug\Zahlenraten.application

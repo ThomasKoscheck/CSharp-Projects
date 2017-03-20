@@ -10,3 +10,16 @@ C:\Users\Thomas\OneDrive\Code\C#\Code\Self\Desktop\Shutdown\Shutdow\bin\Debug\Sh
 C:\Users\Thomas\OneDrive\Code\C#\Code\Self\Desktop\Shutdown\Shutdow\obj\Debug\Shutdown.Properties.Resources.resources
 C:\Users\Thomas\OneDrive\Code\C#\Code\Self\Desktop\Shutdown\Shutdow\obj\Debug\Shutdow.exe.manifest
 C:\Users\Thomas\OneDrive\Code\C#\Code\Self\Desktop\Shutdown\Shutdow\obj\Debug\Shutdow.application
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Shutdown-Tool\Shutdow\bin\Debug\Shutdown.exe.config
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Shutdown-Tool\Shutdow\bin\Debug\Shutdown.exe.manifest
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Shutdown-Tool\Shutdow\bin\Debug\Shutdown.application
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Shutdown-Tool\Shutdow\bin\Debug\Shutdown.exe
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Shutdown-Tool\Shutdow\bin\Debug\Shutdown.pdb
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Shutdown-Tool\Shutdow\obj\Debug\Shutdown.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Shutdown-Tool\Shutdow\obj\Debug\Shutdown.frmShutdown.resources
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Shutdown-Tool\Shutdow\obj\Debug\Shutdown.Properties.Resources.resources
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Shutdown-Tool\Shutdow\obj\Debug\Shutdown.csproj.GenerateResource.Cache
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Shutdown-Tool\Shutdow\obj\Debug\Shutdown.exe.manifest
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Shutdown-Tool\Shutdow\obj\Debug\Shutdown.application
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Shutdown-Tool\Shutdow\obj\Debug\Shutdown.exe
+C:\Users\Thomas\Documents\GitHub\CSharp-Projects\Shutdown-Tool\Shutdow\obj\Debug\Shutdown.pdb
