@@ -4,7 +4,7 @@ Kleines Tool um zufällige und sichere Passwörter zu erzeugen. Dabei können Za
 
 <br>
 
-### Projektinformationen
+### Projektinformationen:
 | Projektname   | Passwortgenerator   |
 | :------------ | :------------------ |
 | IDE           | Visual Studio 2017  | 
